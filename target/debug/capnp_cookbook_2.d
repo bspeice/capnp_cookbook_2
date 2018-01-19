@@ -1,0 +1,1 @@
+/home/bspeice/Development/capnp_cookbook_2/target/debug/capnp_cookbook_2: /home/bspeice/Development/capnp_cookbook_2/src/main.rs /home/bspeice/Development/capnp_cookbook_2/target/debug/build/capnp_cookbook_2-a0bfc56364380222/out/point_capnp.rs /home/bspeice/Development/capnp_cookbook_2/build.rs

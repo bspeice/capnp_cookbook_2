@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "capnp_cookbook_1"
+name = "capnp_cookbook_2"
 version = "0.1.0"
 dependencies = [
  "capnp 0.8.14 (registry+https://github.com/rust-lang/crates.io-index)",
